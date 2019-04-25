@@ -3,11 +3,11 @@ Implementation of Semaphores and Monitors(banking problem)
 
 ### Execute the files
 
-gcc semaphores.c -o out -lpthread 
+`gcc semaphores.c -o out -lpthread `
 
-./out
+`./out`
 
 
-g++ banking-monitors.cpp -o out -pthread 
+`g++ banking-monitors.cpp -o out -pthread` 
 
-./out
+`./out`
